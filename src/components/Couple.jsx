@@ -233,13 +233,9 @@ function Couple() {
 
                             <p className="mt-2 mt-lg-3">
                                 D/O Janab{" "}
-                                <strong>
-                                    Mohammed Sadatullah Sahab (Lal Pailwan),
-                                </strong>
+                                <strong>Mohammed Sadatullah Sahab,</strong>
                             </p>
-                            <p className="mt-1 mt-lg-2">
-                                Cowl Bazar, Bellari.
-                            </p>
+                            <p className="mt-1 mt-lg-2">Cowl Bazar, Bellari.</p>
                             {/* <p className="mt-1 mt-lg-2">
                                 D/O <strong>Shaikh Nazeer Ahmed.</strong>
                             </p> */}
