@@ -120,11 +120,6 @@ function Timeline() {
                     <>
                         <div className="row">
                             <div
-                                className="col-lg-6 right next"
-                                data-aos="fade-down"
-                                data-aos-offset="200"
-                            ></div>
-                            <div
                                 className="col-lg-6 left next"
                                 data-aos="fade-down"
                                 data-aos-offset="200"
@@ -146,6 +141,11 @@ function Timeline() {
                                     <br /> Bellari, Karnataka - 583 101.
                                 </p>
                             </div>
+                            <div
+                                className="col-lg-6 right next"
+                                data-aos="fade-down"
+                                data-aos-offset="200"
+                            ></div>
                         </div>
                         <div className="row">
                             <div
@@ -153,9 +153,14 @@ function Timeline() {
                                 data-aos="fade-down"
                                 data-aos-offset="200"
                                 data-aos-delay="100"
+                            ></div>
+                            <div
+                                className="col-lg-6 right next"
+                                data-aos="fade-down"
+                                data-aos-offset="200"
+                                data-aos-delay="100"
                             >
                                 <h1>Valima</h1>
-
                                 <p>
                                     On Wednesday, 10<sup>th</sup> May, 2023,
                                     <br />
@@ -164,7 +169,6 @@ function Timeline() {
                                     <br />
                                     Time: 02:00 PM.
                                 </p>
-
                                 <h2>Venue:</h2>
                                 <p>
                                     Danish Function Hall,
@@ -172,12 +176,6 @@ function Timeline() {
                                     <br /> Kurnool Dist., AP - 518 301.
                                 </p>
                             </div>
-                            <div
-                                className="col-lg-6 right next"
-                                data-aos="fade-down"
-                                data-aos-offset="200"
-                                data-aos-delay="100"
-                            ></div>
                         </div>
                     </>
                 </div>
